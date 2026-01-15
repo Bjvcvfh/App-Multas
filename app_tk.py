@@ -9,6 +9,8 @@ from datetime import datetime
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 from pathlib import Path
+import ttkbootstrap as tb
+from ttkbootstrap.constants import PRIMARY, SUCCESS, INFO, WARNING, DARK, LIGHT, DANGER
 
 import pandas as pd
 
@@ -304,9 +306,9 @@ def open_downloads_folder():
 # =========================
 # APP TKINTER
 # =========================
-class MultasApp(tk.Tk):
+class MultasApp(tb.Window):
     def __init__(self):
-        super().__init__()
+        super().__init__(themename="cosmo")
         self.title("App Multas — PDF + Termo")
         self.geometry("820x600")
         self.resizable(False, False)
@@ -314,7 +316,7 @@ class MultasApp(tk.Tk):
         try:
             self.iconbitmap(resource_path("assets/app.ico"))
         except Exception:
-            pass
+            pass 
 
         ensure_dirs()
 
@@ -360,32 +362,32 @@ class MultasApp(tk.Tk):
 
         top = ttk.Frame(self, padding=pad)
         top.pack(fill="x")
-        ttk.Label(top, text="1) Anexar Notificação (PDF)", font=("Segoe UI", 11, "bold")).pack(anchor="w")
+        ttk.Label(top, text="1) Anexar Notificação (PDF)", font=("Segoe UI", 11, "bold")).pack(anchor="center")
 
         row = ttk.Frame(top)
         row.pack(fill="x", pady=(6, 0))
-
+        
         self.pdf_label = ttk.Label(row, text="Nenhum PDF selecionado", width=70)
-        self.pdf_label.pack(side="left")
-        ttk.Button(row, text="Selecionar PDF", command=self.on_select_pdf).pack(side="right")
+        self.pdf_label.pack(anchor="center")
+        ttk.Button(row, text="Selecionar PDF", command=self.on_select_pdf).pack(anchor="center")
 
         mid = ttk.Frame(self, padding=pad)
         mid.pack(fill="x")
 
-        ttk.Label(mid, text="2) Motorista", font=("Segoe UI", 11, "bold")).pack(anchor="w")
+        ttk.Label(mid, text="2) Motorista", font=("Segoe UI", 11, "bold")).pack(anchor="center")
 
         self.motorista_var = tk.StringVar()
         motoristas_list = self.motoristas_df["Nome Curto"].astype(str).tolist()
-        self.motorista_combo = ttk.Combobox(mid, textvariable=self.motorista_var, values=motoristas_list, state="readonly", width=60)
-        self.motorista_combo.pack(anchor="w", pady=(6, 0))
+        self.motorista_combo = ttk.Combobox(mid, textvariable=self.motorista_var, values=motoristas_list, state="readonly", width=60, bootstyle=DARK)
+        self.motorista_combo.pack(anchor="center", pady=(6, 0))
         if motoristas_list:
             self.motorista_combo.current(0)
 
-        ttk.Label(mid, text="3) Indicar pontos?", font=("Segoe UI", 11, "bold")).pack(anchor="w", pady=(12, 0))
+        ttk.Label(mid, text="3) Indicar pontos?", font=("Segoe UI", 11, "bold")).pack(anchor="center", pady=(12, 0))
         self.indicar_var = tk.StringVar(value="SIM")
 
         rrow = ttk.Frame(mid)
-        rrow.pack(anchor="w", pady=(6, 0))
+        rrow.pack(anchor="center", pady=(6, 0))
         ttk.Radiobutton(rrow, text="SIM", variable=self.indicar_var, value="SIM").pack(side="left", padx=(0, 12))
         ttk.Radiobutton(rrow, text="NÃO", variable=self.indicar_var, value="NÃO").pack(side="left")
 
@@ -401,11 +403,19 @@ class MultasApp(tk.Tk):
         actions = ttk.Frame(self, padding=pad)
         actions.pack(fill="x")
 
-        self.btn_msg = ttk.Button(actions, text="📝 Gerar somente Mensagem (TXT)", command=self.on_generate_message)
-        self.btn_msg.pack(fill="x", pady=(0, 8))
+        tb.Button(
+                actions,
+                text="Gerar Mensagem",
+                bootstyle="primary",
+                width=30
+            ).pack(pady=6)
 
-        self.btn_pdf = ttk.Button(actions, text="📄 Gerar PDF Final (Termo + Notificação)", command=self.on_generate_pdf_final)
-        self.btn_pdf.pack(fill="x")
+        tb.Button(
+            actions,
+            text="Gerar PDF Final",
+            bootstyle="success",
+            width=30
+        ).pack(pady=6)
 
     def on_select_pdf(self):
         path = filedialog.askopenfilename(
