@@ -310,7 +310,7 @@ class MultasApp(tb.Window):
     def __init__(self):
         super().__init__(themename="cosmo")
         self.title("App Multas — PDF + Termo")
-        self.geometry("820x600")
+        self.geometry("820x650")
         self.resizable(False, False)
 
         try:
@@ -407,14 +407,16 @@ class MultasApp(tb.Window):
                 actions,
                 text="Gerar Mensagem",
                 bootstyle="primary",
-                width=30
+                width=30,
+                command=self.on_generate_message
             ).pack(pady=6)
 
         tb.Button(
             actions,
             text="Gerar PDF Final",
             bootstyle="success",
-            width=30
+            width=30,
+            command=self.on_generate_pdf_final
         ).pack(pady=6)
 
     def on_select_pdf(self):
