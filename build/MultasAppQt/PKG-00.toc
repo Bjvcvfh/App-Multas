@@ -1,0 +1,4481 @@
+('C:\\Users\\renan.ramos\\Documents\\App '
+ 'Multas\\build\\MultasAppQt\\MultasAppQt.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\build\\MultasAppQt\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\build\\MultasAppQt\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\build\\MultasAppQt\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\build\\MultasAppQt\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\build\\MultasAppQt\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\build\\MultasAppQt\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_pythoncom',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pythoncom.py',
+   'PYSOURCE'),
+  ('pyi_rth_pywintypes',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pywintypes.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_cryptography_openssl',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_cryptography_openssl.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyside6',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyside6.py',
+   'PYSOURCE'),
+  ('main',
+   'C:\\Users\\renan.ramos\\Documents\\App Multas\\main.py',
+   'PYSOURCE'),
+  ('pypdfium2_raw\\pdfium.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pypdfium2_raw\\pdfium.dll',
+   'BINARY'),
+  ('python314.dll',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\python314.dll',
+   'BINARY'),
+  ('pywin32_system32\\pythoncom314.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pywin32_system32\\pythoncom314.dll',
+   'BINARY'),
+  ('pywin32_system32\\pywintypes314.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pywin32_system32\\pywintypes314.dll',
+   'BINARY'),
+  ('numpy.libs\\libscipy_openblas64_-9e3e5a4229c1ca39f10dc82bba9e2b2b.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy.libs\\libscipy_openblas64_-9e3e5a4229c1ca39f10dc82bba9e2b2b.dll',
+   'BINARY'),
+  ('numpy.libs\\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy.libs\\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qsvg.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\platforms\\qdirect2d.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qdirect2d.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\platforms\\qwindows.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qwbmp.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qgif.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\platforms\\qoffscreen.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\generic\\qtuiotouchplugin.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\platforminputcontexts\\qtvirtualkeyboardplugin.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\platforminputcontexts\\qtvirtualkeyboardplugin.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qicns.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\iconengines\\qsvgicon.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qtga.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qico.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qtiff.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qwebp.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qpdf.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qpdf.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\platforms\\qminimal.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\imageformats\\qjpeg.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PySide6\\opengl32sw.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\opengl32sw.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\tls\\qopensslbackend.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\tls\\qopensslbackend.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\tls\\qcertonlybackend.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\tls\\qcertonlybackend.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\tls\\qschannelbackend.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\tls\\qschannelbackend.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\networkinformation\\qnetworklistmanager.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\networkinformation\\qnetworklistmanager.dll',
+   'BINARY'),
+  ('PySide6\\plugins\\styles\\qmodernwindowsstyle.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\plugins\\styles\\qmodernwindowsstyle.dll',
+   'BINARY'),
+  ('_zstd.pyd',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_zstd.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('win32\\_win32sysloader.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
+  ('win32\\win32api.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('Pythonwin\\win32ui.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\Pythonwin\\win32ui.pyd',
+   'EXTENSION'),
+  ('win32\\win32event.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\win32\\win32event.pyd',
+   'EXTENSION'),
+  ('win32\\win32trace.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\win32\\win32trace.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\writers.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\writers.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_umath.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy\\_core\\_multiarray_umath.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32\\win32pdh.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\win32\\win32pdh.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('markupsafe\\_speedups.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\markupsafe\\_speedups.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('_sqlite3.pyd',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('lxml\\etree.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\lxml\\etree.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\_elementpath.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\lxml\\_elementpath.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\sax.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\lxml\\sax.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\objectify.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\lxml\\objectify.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\html\\diff.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\lxml\\html\\diff.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\html\\_difflib.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\lxml\\html\\_difflib.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\builder.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\lxml\\builder.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_tests.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy\\_core\\_multiarray_tests.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\charset_normalizer\\md__mypyc.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\charset_normalizer\\md.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy\\random\\mtrand.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy\\random\\bit_generator.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy\\random\\_sfc64.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy\\random\\_philox.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy\\random\\_pcg64.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy\\random\\_mt19937.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy\\random\\_generator.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy\\random\\_common.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy\\random\\_bounded_integers.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_umath.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy\\fft\\_pocketfft_umath.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\window\\indexers.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\window\\indexers.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\window\\aggregations.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\window\\aggregations.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\vectorized.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\vectorized.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\tzconversion.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\tzconversion.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timezones.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timezones.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timestamps.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timestamps.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timedeltas.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timedeltas.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\strptime.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\strptime.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\period.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\period.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\parsing.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\parsing.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\offsets.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\offsets.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\np_datetime.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\np_datetime.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\nattype.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\nattype.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\fields.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\fields.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\dtypes.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\dtypes.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\conversion.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\conversion.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\ccalendar.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\ccalendar.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\base.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\base.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslib.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\tslib.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\testing.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\testing.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\sparse.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\sparse.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\sas.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\sas.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\reshape.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\reshape.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\properties.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\properties.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\parsers.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\parsers.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\pandas_parser.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\pandas_parser.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\pandas_datetime.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\pandas_datetime.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\ops_dispatch.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\ops_dispatch.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\ops.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\ops.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\missing.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\missing.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\lib.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\lib.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\json.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\json.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\join.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\join.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\interval.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\interval.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\internals.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\internals.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\indexing.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\indexing.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\index.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\index.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\hashtable.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\hashtable.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\hashing.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\hashing.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\groupby.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\groupby.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\byteswap.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\byteswap.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\arrays.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\arrays.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\algos.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\_libs\\algos.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PIL\\_webp.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PIL\\_imagingtk.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_avif.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PIL\\_avif.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingft.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PIL\\_imagingft.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PIL\\_imagingcms.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingmath.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PIL\\_imagingmath.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PIL\\_imaging.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('cryptography\\hazmat\\bindings\\_rust.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\_rust.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp314-win_amd64.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\_cffi_backend.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('PySide6\\QtGui.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\QtGui.pyd',
+   'EXTENSION'),
+  ('shiboken6\\Shiboken.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\shiboken6\\Shiboken.pyd',
+   'EXTENSION'),
+  ('PySide6\\QtNetwork.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\QtNetwork.pyd',
+   'EXTENSION'),
+  ('PySide6\\QtCore.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\QtCore.pyd',
+   'EXTENSION'),
+  ('PySide6\\QtWidgets.pyd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Gui.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\Qt6Gui.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Svg.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\Qt6Svg.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Core.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\Qt6Core.dll',
+   'BINARY'),
+  ('shiboken6\\MSVCP140.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\shiboken6\\MSVCP140.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Network.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\Qt6Network.dll',
+   'BINARY'),
+  ('PySide6\\Qt6VirtualKeyboard.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\Qt6VirtualKeyboard.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Pdf.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\Qt6Pdf.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Widgets.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\Qt6Widgets.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('Pythonwin\\mfc140u.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\Pythonwin\\mfc140u.dll',
+   'BINARY'),
+  ('pandas.libs\\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas.libs\\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll',
+   'BINARY'),
+  ('sqlite3.dll',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\sqlite3.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\renan.ramos\\AppData\\Local\\Programs\\Python\\Python314\\python3.dll',
+   'BINARY'),
+  ('PySide6\\VCRUNTIME140_1.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PySide6\\MSVCP140_2.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\MSVCP140_2.dll',
+   'BINARY'),
+  ('PySide6\\pyside6.abi3.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\pyside6.abi3.dll',
+   'BINARY'),
+  ('shiboken6\\shiboken6.abi3.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\shiboken6\\shiboken6.abi3.dll',
+   'BINARY'),
+  ('PySide6\\MSVCP140.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\MSVCP140.dll',
+   'BINARY'),
+  ('PySide6\\VCRUNTIME140.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('shiboken6\\VCRUNTIME140_1.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\shiboken6\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('shiboken6\\VCRUNTIME140.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\shiboken6\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('PySide6\\MSVCP140_1.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\MSVCP140_1.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Qml.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\Qt6Qml.dll',
+   'BINARY'),
+  ('PySide6\\Qt6Quick.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\Qt6Quick.dll',
+   'BINARY'),
+  ('PySide6\\Qt6QmlMeta.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\Qt6QmlMeta.dll',
+   'BINARY'),
+  ('PySide6\\Qt6QmlModels.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\Qt6QmlModels.dll',
+   'BINARY'),
+  ('PySide6\\Qt6OpenGL.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\Qt6OpenGL.dll',
+   'BINARY'),
+  ('PySide6\\Qt6QmlWorkerScript.dll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\Qt6QmlWorkerScript.dll',
+   'BINARY'),
+  ('assets\\app.ico',
+   'C:\\Users\\renan.ramos\\Documents\\App Multas\\assets\\app.ico',
+   'DATA'),
+  ('data\\Automação de Gestão de Multas.docx',
+   'C:\\Users\\renan.ramos\\Documents\\App Multas\\data\\Automação de Gestão '
+   'de Multas.docx',
+   'DATA'),
+  ('data\\motoristas.csv',
+   'C:\\Users\\renan.ramos\\Documents\\App Multas\\data\\motoristas.csv',
+   'DATA'),
+  ('data\\tipos_multa.csv',
+   'C:\\Users\\renan.ramos\\Documents\\App Multas\\data\\tipos_multa.csv',
+   'DATA'),
+  ('templates\\termo_multa_modelo.docx',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\templates\\termo_multa_modelo.docx',
+   'DATA'),
+  ('dateutil\\zoneinfo\\dateutil-zoneinfo.tar.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\dateutil\\zoneinfo\\dateutil-zoneinfo.tar.gz',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html.tpl',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex.tpl',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\string.tpl',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\string.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html_style.tpl',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html_style.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html_table.tpl',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html_table.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex_table.tpl',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex_table.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex_longtable.tpl',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex_longtable.tpl',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Hawaii',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Hawaii',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT0',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Douala',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Douala',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Kitts',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Kitts',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Eastern',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Eastern',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Funafuti',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Funafuti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vilnius',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vilnius',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Thomas',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Thomas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Moncton',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Moncton',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-6',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-6',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Guernsey',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Guernsey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bujumbura',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bujumbura',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Cairo',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Cairo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Noumea',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Noumea',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+9',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+9',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lusaka',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lusaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Majuro',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Majuro',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cordoba',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cordoba',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\La_Paz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\La_Paz',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Riyadh',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Riyadh',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fiji',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fiji',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boise',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Boise',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Virgin',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Virgin',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Godthab',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Godthab',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Vostok',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Vostok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Casey',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Casey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Syowa',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Syowa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Matamoros',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Matamoros',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Phoenix',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Phoenix',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashgabat',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashgabat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dhaka',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dhaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Wayne',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Wayne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-2',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-2',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mogadishu',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mogadishu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Queensland',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Queensland',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Costa_Rica',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Costa_Rica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Astrakhan',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Astrakhan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pontianak',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pontianak',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone.tab',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\zone.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\EET',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\EET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Copenhagen',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Copenhagen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kolkata',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kolkata',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Halifax',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Halifax',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fortaleza',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fortaleza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-7',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-7',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Norfolk',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Norfolk',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROC',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\ROC',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jujuy',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Jujuy',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Araguaina',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Araguaina',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Johannesburg',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Johannesburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB-Eire',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\GB-Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Adak',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Adak',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Merida',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Merida',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimphu',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimphu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Samara',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Samara',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Dublin',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Dublin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Israel',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Israel',
+   'DATA'),
+  ('pytz\\zoneinfo\\zonenow.tab',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\zonenow.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Saipan',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Saipan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Djibouti',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Djibouti',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Menominee',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Menominee',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Saigon',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Saigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\North',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\North',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iran',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Iran',
+   'DATA'),
+  ('pytz\\zoneinfo\\tzdata.zi',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\tzdata.zi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chicago',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Chicago',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Michigan',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Michigan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atikokan',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Atikokan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Nicosia',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Currie',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Currie',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-5',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-5',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Harbin',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Harbin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tomsk',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tomsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Nauru',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Nauru',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nuuk',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grenada',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Grenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vladivostok',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vladivostok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Gaborone',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Gaborone',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Casablanca',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Casablanca',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\East-Indiana',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\East-Indiana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vienna',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vienna',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Campo_Grande',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Campo_Grande',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Canberra',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Canberra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+2',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+2',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qostanay',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qostanay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Skopje',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Skopje',
+   'DATA'),
+  ('pytz\\zoneinfo\\Egypt',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Egypt',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tijuana',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tijuana',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rainy_River',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rainy_River',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bahrain',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bahrain',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\NZ',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-1',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-1',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Arizona',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Arizona',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ciudad_Juarez',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ciudad_Juarez',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Catamarca',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dushanbe',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dushanbe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chongqing',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chongqing',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Barbados',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Barbados',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-10',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-10',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Berlin',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Berlin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sofia',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sofia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Mariehamn',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Mariehamn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Yancowinna',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Yancowinna',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mbabane',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mbabane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Budapest',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Budapest',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guam',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guam',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST7MDT',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\MST7MDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Madeira',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Madeira',
+   'DATA'),
+  ('pytz\\zoneinfo\\Zulu',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Apia',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Apia',
+   'DATA'),
+  ('pytz\\zoneinfo\\iso3166.tab',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\iso3166.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+8',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+8',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Azores',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Azores',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Troll',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Troll',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ensenada',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ensenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Comoro',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Comoro',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Enderbury',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Enderbury',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Malabo',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Malabo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Central',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ-CHAT',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\NZ-CHAT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qatar',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qatar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+0',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Yap',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Yap',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wallis',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wallis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Simferopol',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Simferopol',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ojinaga',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ojinaga',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yakutat',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Yakutat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kigali',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kigali',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\New_York',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\New_York',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yangon',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yangon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Samarkand',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Samarkand',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\EasterIsland',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Chile\\EasterIsland',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iceland',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Iceland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Gambier',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Gambier',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macao',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macao',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Ponape',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Ponape',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bangui',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bangui',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Magadan',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Magadan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-13',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-13',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chatham',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chatham',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Louisville',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Denver',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Denver',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Madrid',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Madrid',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guadeloupe',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guadeloupe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cuiaba',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cuiaba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Midway',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Midway',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zagreb',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zagreb',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Swift_Current',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Swift_Current',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Inuvik',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Inuvik',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Atyrau',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Atyrau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tallinn',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tallinn',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\GB',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Barthelemy',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Barthelemy',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boa_Vista',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Boa_Vista',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Busingen',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Busingen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tunis',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tunis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Portugal',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Portugal',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thunder_Bay',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Thunder_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tarawa',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tarawa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tehran',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tehran',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Palau',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Palau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Libya',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Libya',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Auckland',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Auckland',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Acre',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Juba',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Juba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Yukon',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Yukon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kinshasa',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kinshasa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Greenwich',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tripoli',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tripoli',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Omsk',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Omsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ndjamena',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ndjamena',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'DATA'),
+  ('pytz\\zoneinfo\\leapseconds',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\leapseconds',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Abidjan',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Abidjan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Antananarivo',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Antananarivo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Khandyga',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Khandyga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dakar',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dakar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Galapagos',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Galapagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Anadyr',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Anadyr',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UCT',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Asuncion',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Asuncion',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Chisinau',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Chisinau',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Puerto_Rico',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Puerto_Rico',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Regina',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Regina',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-8',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-8',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\East',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\East',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Factory',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Factory',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Niue',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Niue',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baku',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baku',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\LHI',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\LHI',
+   'DATA'),
+  ('pytz\\zoneinfo\\Singapore',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Singapore',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-3',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-3',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dominica',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dominica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Iqaluit',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Iqaluit',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Rothera',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Rothera',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vientiane',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vientiane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Melbourne',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Melbourne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Gibraltar',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Gibraltar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Irkutsk',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Irkutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kosrae',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kosrae',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zurich',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zurich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Rangoon',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Rangoon',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jayapura',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jayapura',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\NSW',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\NSW',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chihuahua',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Chihuahua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kabul',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kabul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-11',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-11',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT+0',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Central',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\Hongkong',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Hongkong',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Winnipeg',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Winnipeg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Singapore',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Singapore',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Taipei',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Taipei',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Algiers',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Algiers',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Eucla',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Eucla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bamako',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bamako',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bangkok',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bangkok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Poland',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Poland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\West',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Zulu',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montreal',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montreal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'DATA'),
+  ('pytz\\zoneinfo\\CET',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\CET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dubai',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dubai',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Aleutian',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Aleutian',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vatican',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vatican',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Monterrey',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Monterrey',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mexico_City',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mexico_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Volgograd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Volgograd',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Libreville',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Libreville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anchorage',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Anchorage',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maseru',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maseru',
+   'DATA'),
+  ('pytz\\zoneinfo\\Navajo',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Navajo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kralendijk',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kralendijk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Manaus',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Manaus',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Mawson',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Mawson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Brussels',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Brussels',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yakutsk',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yakutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Luxembourg',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Luxembourg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Blantyre',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Blantyre',
+   'DATA'),
+  ('pytz\\zoneinfo\\Jamaica',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atka',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Atka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Efate',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Efate',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Prague',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Prague',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Sakhalin',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Sakhalin',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT0',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santa_Isabel',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santa_Isabel',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macau',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-14',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-14',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Amman',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Amman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Turkey',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Turkey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+4',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+4',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Davis',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Davis',
+   'DATA'),
+  ('pytz\\zoneinfo\\PST8PDT',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\PST8PDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bogota',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bogota',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kanton',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kanton',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sarajevo',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sarajevo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santarem',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santarem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Oslo',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Oslo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Aruba',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Aruba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Reunion',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Reunion',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baghdad',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baghdad',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Banjul',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Banjul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Seoul',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Seoul',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guayaquil',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guayaquil',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Stockholm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Stockholm',
+   'DATA'),
+  ('pytz\\zoneinfo\\Kwajalein',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Khartoum',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Khartoum',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Moscow',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Moscow',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Adelaide',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Adelaide',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson_Creek',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson_Creek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Timbuktu',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Timbuktu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Resolute',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Resolute',
+   'DATA'),
+  ('pytz\\zoneinfo\\UCT',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guyana',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guyana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Makassar',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Makassar',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Toronto',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Toronto',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tegucigalpa',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tegucigalpa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Manila',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Manila',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Managua',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Managua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chuuk',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bissau',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bissau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+10',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+10',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Johns',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Johns',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\South',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\South',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\Acre',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kirov',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kirov',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Recife',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Recife',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\San_Marino',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\San_Marino',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grand_Turk',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Grand_Turk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Lucia',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Lucia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sitka',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Sitka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Tasmania',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Tasmania',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Detroit',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Detroit',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Los_Angeles',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Los_Angeles',
+   'DATA'),
+  ('pytz\\zoneinfo\\Universal',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mayotte',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mayotte',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Eirunepe',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Eirunepe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kyiv',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kyiv',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Hobart',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Hobart',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Velho',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Velho',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jamaica',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wake',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wake',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vaduz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vaduz',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+12',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+12',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Pacific',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Choibalsan',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Choibalsan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anguilla',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Anguilla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Eire',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nouakchott',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nouakchott',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montevideo',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montevideo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montserrat',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montserrat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Riga',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Riga',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Caracas',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Caracas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Mountain',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Buenos_Aires',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Chagos',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Chagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Warsaw',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Warsaw',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jakarta',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jakarta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hebron',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hebron',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone1970.tab',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\zone1970.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ljubljana',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ljubljana',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayenne',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cayenne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tokyo',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tokyo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chita',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chita',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Jersey',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Jersey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuwait',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuwait',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-12',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-12',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Cocos',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Cocos',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Hermosillo',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Hermosillo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaSur',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaSur',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port-au-Prince',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Port-au-Prince',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Saratov',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Saratov',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Eastern',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Eastern',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ceuta',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ceuta',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rosario',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rosario',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT-0',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Rome',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Rome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kashgar',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kashgar',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Havana',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Havana',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Marigot',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Marigot',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Danmarkshavn',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Danmarkshavn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Brazzaville',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Brazzaville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aden',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aden',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port_of_Spain',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Port_of_Spain',
+   'DATA'),
+  ('pytz\\zoneinfo\\WET',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\WET',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cancun',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cancun',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Accra',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Accra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Marquesas',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Marquesas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nassau',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nassau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hovd',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hovd',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sao_Paulo',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Sao_Paulo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Coyhaique',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Coyhaique',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jerusalem',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jerusalem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST5EDT',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\EST5EDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Truk',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Truk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nipigon',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nipigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\General',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\General',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtau',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtau',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Mountain',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tahiti',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tahiti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Honolulu',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Honolulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Istanbul',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\Continental',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Chile\\Continental',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Calcutta',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Calcutta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Freetown',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Freetown',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Pacific',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mahe',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mahe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'DATA'),
+  ('pytz\\zoneinfo\\CST6CDT',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\CST6CDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kiev',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kiev',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maputo',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maputo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Curacao',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Curacao',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Malta',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Malta',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tiraspol',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tiraspol',
+   'DATA'),
+  ('pytz\\zoneinfo\\Greenwich',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Whitehorse',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Whitehorse',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Nicosia',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Nelson',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Nelson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Christmas',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Christmas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Lisbon',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Lisbon',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yellowknife',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Yellowknife',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rio_Branco',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rio_Branco',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Colombo',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Colombo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Athens',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Athens',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lindeman',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lindeman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-9',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-9',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Monrovia',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Monrovia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Vincent',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Vincent',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Niamey',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Niamey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kampala',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kampala',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lima',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Lima',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Glace_Bay',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Glace_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Harare',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Harare',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pyongyang',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pyongyang',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thule',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Thule',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Canary',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Canary',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Bougainville',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Bougainville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Famagusta',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Famagusta',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Antigua',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Antigua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+7',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+7',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Paramaribo',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Paramaribo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kathmandu',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kathmandu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belfast',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belfast',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\MST',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuching',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuching',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mazatlan',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mazatlan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmara',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmara',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UTC',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\UTC',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santo_Domingo',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santo_Domingo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Podgorica',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Podgorica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bratislava',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bratislava',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Alaska',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Alaska',
+   'DATA'),
+  ('pytz\\zoneinfo\\Japan',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Japan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Edmonton',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Edmonton',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Scoresbysund',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Scoresbysund',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Conakry',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Conakry',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Punta_Arenas',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Punta_Arenas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Urumqi',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Urumqi',
+   'DATA'),
+  ('pytz\\zoneinfo\\W-SU',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\W-SU',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Barnaul',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Barnaul',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Martinique',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Martinique',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lower_Princes',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Lower_Princes',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Shanghai',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Shanghai',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Miquelon',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Miquelon',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Cuba',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Cuba',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Pangnirtung',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Pangnirtung',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Vancouver',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Vancouver',
+   'DATA'),
+  ('pytz\\zoneinfo\\HST',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\HST',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belgrade',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belgrade',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Minsk',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Minsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faroe',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Maldives',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Maldives',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimbu',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimbu',
+   'DATA'),
+  ('pytz\\zoneinfo\\MET',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\MET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dili',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dili',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\El_Salvador',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\El_Salvador',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Juneau',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Juneau',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nome',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nome',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indianapolis',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Brunei',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Brunei',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Monaco',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Monaco',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Coral_Harbour',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Coral_Harbour',
+   'DATA'),
+  ('pytz\\zoneinfo\\UTC',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\UTC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bishkek',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bishkek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\EST',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Katmandu',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Katmandu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mendoza',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mendoza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+6',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+6',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Darwin',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Darwin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Karachi',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Karachi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Helsinki',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Helsinki',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Samoa',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belem',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Belem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Perth',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Perth',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Universal',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Sydney',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Sydney',
+   'DATA'),
+  ('pytz\\zoneinfo\\PRC',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\PRC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Damascus',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Damascus',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Muscat',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Muscat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\ACT',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\ACT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Beirut',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Beirut',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Almaty',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Almaty',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Amsterdam',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Amsterdam',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kamchatka',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kamchatka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tbilisi',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tbilisi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmera',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmera',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Noronha',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Noronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tortola',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tortola',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Metlakatla',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Metlakatla',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Creston',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Creston',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Gaza',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Gaza',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belize',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Belize',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROK',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\ROK',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yerevan',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yerevan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Atlantic',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Atlantic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Istanbul',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Palmer',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Palmer',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Kerguelen',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Kerguelen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Victoria',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Victoria',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tirane',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tirane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\West',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-0',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Paris',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Paris',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Oral',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Oral',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lagos',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tashkent',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tashkent',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Luanda',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Luanda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayman',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cayman',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Goose_Bay',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Goose_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Easter',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Easter',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Andorra',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Andorra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+1',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+1',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bucharest',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bucharest',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mauritius',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mauritius',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Samoa',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Brisbane',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Brisbane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Johnston',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Johnston',
+   'DATA'),
+  ('pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Maceio',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Maceio',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Indiana-Starke',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Indiana-Starke',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-4',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-4',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Knox_IN',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Knox_IN',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Stanley',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Stanley',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nairobi',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nairobi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Shiprock',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Shiprock',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Panama',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Panama',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Windhoek',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Windhoek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+11',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+11',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lome',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Newfoundland',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Newfoundland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chungking',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chungking',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtobe',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtobe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+5',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+5',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santiago',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santiago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\London',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\London',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+3',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+3',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guatemala',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guatemala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dacca',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dacca',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'DATA'),
+  ('cryptography-46.0.3.dist-info\\RECORD',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\cryptography-46.0.3.dist-info\\RECORD',
+   'DATA'),
+  ('cryptography-46.0.3.dist-info\\licenses\\LICENSE.BSD',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\cryptography-46.0.3.dist-info\\licenses\\LICENSE.BSD',
+   'DATA'),
+  ('cryptography-46.0.3.dist-info\\licenses\\LICENSE.APACHE',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\cryptography-46.0.3.dist-info\\licenses\\LICENSE.APACHE',
+   'DATA'),
+  ('cryptography-46.0.3.dist-info\\INSTALLER',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\cryptography-46.0.3.dist-info\\INSTALLER',
+   'DATA'),
+  ('cryptography-46.0.3.dist-info\\METADATA',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\cryptography-46.0.3.dist-info\\METADATA',
+   'DATA'),
+  ('cryptography-46.0.3.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\cryptography-46.0.3.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('cryptography-46.0.3.dist-info\\WHEEL',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\cryptography-46.0.3.dist-info\\WHEEL',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\customXml\\item1.xml',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\customXml\\item1.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\word\\numbering.xml',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\numbering.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\customXml\\_rels\\item1.xml.rels',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\customXml\\_rels\\item1.xml.rels',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\[Content_Types].xml',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\[Content_Types].xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\word\\document.xml',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\document.xml',
+   'DATA'),
+  ('docx\\templates\\default-footer.xml',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-footer.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\word\\styles.xml',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\styles.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\word\\stylesWithEffects.xml',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\stylesWithEffects.xml',
+   'DATA'),
+  ('docx\\py.typed',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\py.typed',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\word\\fontTable.xml',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\fontTable.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\docProps\\thumbnail.jpeg',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\docProps\\thumbnail.jpeg',
+   'DATA'),
+  ('docx\\templates\\default.docx',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default.docx',
+   'DATA'),
+  ('docx\\templates\\default-comments.xml',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-comments.xml',
+   'DATA'),
+  ('docx\\templates\\default-settings.xml',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-settings.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\word\\webSettings.xml',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\webSettings.xml',
+   'DATA'),
+  ('docx\\templates\\default-header.xml',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-header.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\customXml\\itemProps1.xml',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\customXml\\itemProps1.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\word\\theme\\theme1.xml',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\theme\\theme1.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\docProps\\app.xml',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\docProps\\app.xml',
+   'DATA'),
+  ('docx\\templates\\default-styles.xml',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-styles.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\word\\_rels\\document.xml.rels',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\_rels\\document.xml.rels',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\docProps\\core.xml',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\docProps\\core.xml',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\_rels\\.rels',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\_rels\\.rels',
+   'DATA'),
+  ('docx\\templates\\default-docx-template\\word\\settings.xml',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\word\\settings.xml',
+   'DATA'),
+  ('pypdfium2\\version.json',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pypdfium2\\version.json',
+   'DATA'),
+  ('pypdfium2_raw\\version.json',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pypdfium2_raw\\version.json',
+   'DATA'),
+  ('pdfminer\\cmap\\KSCms-UHC-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\KSCms-UHC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKgccs-B5-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\HKgccs-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\WP-Symbol-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\WP-Symbol-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\B5-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSC-EUC-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\KSC-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UTF32-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\RKSJ-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GB-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\GB-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSC-EUC-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\KSC-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UCS2-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UCS2-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UTF32-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKgccs-B5-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\HKgccs-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKdla-B5-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\HKdla-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSCms-UHC-HW-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\KSCms-UHC-HW-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UCS2-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UCS2-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBTpc-EUC-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\GBTpc-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\to-unicode-Adobe-GB1.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\to-unicode-Adobe-GB1.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Add-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\Add-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBK-EUC-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\GBK-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\py.typed',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\py.typed',
+   'DATA'),
+  ('pdfminer\\cmap\\ETHK-B5-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\ETHK-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSCms-UHC-HW-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\KSCms-UHC-HW-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UTF8-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UTF8-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSCpc-EUC-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\KSCpc-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJISX0213-UTF32-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJISX0213-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS2004-UTF16-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS2004-UTF16-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\CNS-EUC-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\CNS-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UTF8-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UTF8-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GB-EUC-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\GB-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\RKSJ-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJISX02132004-UTF32-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJISX02132004-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\78-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\CNS1-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\CNS1-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJISX02132004-UTF32-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJISX02132004-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Ext-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\Ext-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\ETen-B5-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\ETen-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\EUC-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UTF8-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UTF8-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UTF8-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UTF8-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UTF16-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UTF16-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UTF8-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UTF8-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Katakana-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\Katakana-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UCS2-HW-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UCS2-HW-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\CNS2-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\CNS2-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKm471-B5-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\HKm471-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKdlb-B5-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\HKdlb-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJISX0213-UTF32-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJISX0213-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBpc-EUC-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\GBpc-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UTF8-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UTF8-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78-RKSJ-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\78-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Hiragana-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\Hiragana-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Ext-RKSJ-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\Ext-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKm314-B5-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\HKm314-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\90ms-RKSJ-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\90ms-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UTF32-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UCS2-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UCS2-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\ETen-B5-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\ETen-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78ms-RKSJ-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\78ms-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBT-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\GBT-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\to-unicode-Adobe-Japan1.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\to-unicode-Adobe-Japan1.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\83pv-RKSJ-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\83pv-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UCS2-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UCS2-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UTF16-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UTF16-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\NWP-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\NWP-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UCS2-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UCS2-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UCS2-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UCS2-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\README.txt',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\README.txt',
+   'DATA'),
+  ('pdfminer\\cmap\\HKscs-B5-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\HKscs-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78ms-RKSJ-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\78ms-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\83pv-RKSJ-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\83pv-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\to-unicode-Adobe-Korea1.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\to-unicode-Adobe-Korea1.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78-RKSJ-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\78-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UTF32-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\EUC-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UTF32-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS2004-UTF32-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS2004-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\ETHK-B5-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\ETHK-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\90pv-RKSJ-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\90pv-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSC-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\KSC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS2004-UTF32-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS2004-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\90pv-RKSJ-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\90pv-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GB-EUC-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\GB-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Hankaku-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\Hankaku-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78-EUC-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\78-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSCms-UHC-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\KSCms-UHC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UTF16-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UTF16-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSCpc-EUC-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\KSCpc-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UTF32-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Katakana-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\Katakana-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\78-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UTF32-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBpc-EUC-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\GBpc-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBT-EUC-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\GBT-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UTF32-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBK2K-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\GBK2K-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\B5-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UTF16-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UTF16-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UTF8-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UTF8-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GB-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\GB-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKscs-B5-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\HKscs-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UTF16-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UTF16-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UCS2-HW-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UCS2-HW-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\CNS2-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\CNS2-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\NWP-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\NWP-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UTF16-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UTF16-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBK-EUC-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\GBK-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Add-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\Add-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBT-EUC-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\GBT-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UCS2-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UCS2-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UTF16-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UTF16-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\to-unicode-Adobe-CNS1.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\to-unicode-Adobe-CNS1.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBT-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\GBT-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSC-Johab-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\KSC-Johab-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Roman-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\Roman-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UTF16-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UTF16-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\CNS1-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\CNS1-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Ext-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\Ext-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\90msp-RKSJ-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\90msp-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Ext-RKSJ-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\Ext-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBKp-EUC-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\GBKp-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS2004-UTF8-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS2004-UTF8-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSC-Johab-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\KSC-Johab-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS2004-UTF8-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS2004-UTF8-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBK2K-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\GBK2K-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\ETenms-B5-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\ETenms-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKdla-B5-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\HKdla-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\90msp-RKSJ-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\90msp-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Add-RKSJ-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\Add-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\CNS-EUC-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\CNS-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Add-RKSJ-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\Add-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Hankaku-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\Hankaku-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Roman-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\Roman-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UTF8-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UTF8-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\B5pc-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\B5pc-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\B5pc-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\B5pc-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKdlb-B5-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\HKdlb-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBKp-EUC-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\GBKp-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKm314-B5-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\HKm314-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSC-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\KSC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS2004-UTF16-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS2004-UTF16-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\ETenms-B5-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\ETenms-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78-EUC-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\78-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Hiragana-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\Hiragana-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\WP-Symbol-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\WP-Symbol-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBTpc-EUC-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\GBTpc-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UCS2-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UCS2-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKm471-B5-V.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\HKm471-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\90ms-RKSJ-H.json.gz',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer\\cmap\\90ms-RKSJ-H.json.gz',
+   'DATA'),
+  ('PySide6\\translations\\qt_es.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_es.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_pl.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_sv.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_sv.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ca.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_ca.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_pl.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_pl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_sl.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_sl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_bg.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_bg.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_lv.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_lv.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_nl.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_nl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_hr.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_hr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ko.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_es.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_fr.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_fr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_fa.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_fa.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_en.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_en.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_it.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_it.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_de.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_de.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_da.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_da.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_gl.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_gl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_uk.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_zh_TW.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_gl.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_gl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_fr.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_lt.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_lt.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_zh_TW.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_zh_TW.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ru.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ru.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_zh_CN.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_zh_CN.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_gd.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_hu.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_hu.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_fr.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_fr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_zh_CN.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_zh_CN.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_pt_PT.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_pt_PT.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_pt_BR.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_pt_BR.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_cs.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ka.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ka.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_bg.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_bg.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ru.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ko.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_ko.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_lg.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_lg.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_nl.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_nl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_nn.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_nn.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ko.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ko.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_sk.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_sk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_hu.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_hu.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_fi.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_it.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_it.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_he.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_sk.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_sk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_gd.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_gd.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_lg.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_lg.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_pt_BR.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_pt_BR.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_uk.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_uk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_de.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_da.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_da.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ka.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_ka.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_uk.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_uk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ja.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ar.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ar.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_nn.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_nn.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ar.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_hu.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_he.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_he.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_es.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_es.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_cs.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_cs.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ar.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_ar.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ca.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ca.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_hr.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_hr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ka.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ka.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_bg.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_da.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_zh_CN.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_zh_CN.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_en.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_ca.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_ja.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_ja.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_sl.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_sl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_en.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_en.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_fa.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_fa.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_sv.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_sv.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_tr.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_tr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_zh_TW.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_zh_TW.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_pl.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_pl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_lv.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_hr.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_hr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_tr.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_nl.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_nl.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ru.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_ru.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_de.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_de.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_pt_BR.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_pt_BR.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_sv.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_sv.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_fi.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_fi.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_it.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_ja.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_ja.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_tr.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_tr.qm',
+   'DATA'),
+  ('PySide6\\translations\\qtbase_sk.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_help_cs.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_help_cs.qm',
+   'DATA'),
+  ('PySide6\\translations\\qt_nn.qm',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\PySide6\\translations\\qt_nn.qm',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\entry_points.txt',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\entry_points.txt',
+   'DATA'),
+  ('markupsafe-3.0.3.dist-info\\licenses\\LICENSE.txt',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\markupsafe-3.0.3.dist-info\\licenses\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\RECORD',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\RECORD',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\licenses\\numpy\\_core\\include\\numpy\\libdivide\\LICENSE.txt',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\licenses\\numpy\\_core\\include\\numpy\\libdivide\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\licenses\\numpy\\linalg\\lapack_lite\\LICENSE.txt',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\licenses\\numpy\\linalg\\lapack_lite\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\licenses\\numpy\\ma\\LICENSE',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\licenses\\numpy\\ma\\LICENSE',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\WHEEL',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\WHEEL',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\METADATA',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\METADATA',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\licenses\\numpy\\_core\\src\\highway\\LICENSE',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\licenses\\numpy\\_core\\src\\highway\\LICENSE',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\licenses\\numpy\\fft\\pocketfft\\LICENSE.md',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\licenses\\numpy\\fft\\pocketfft\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\licenses\\numpy\\random\\src\\philox\\LICENSE.md',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\licenses\\numpy\\random\\src\\philox\\LICENSE.md',
+   'DATA'),
+  ('pdfminer_six-20251230.dist-info\\WHEEL',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer_six-20251230.dist-info\\WHEEL',
+   'DATA'),
+  ('markupsafe-3.0.3.dist-info\\INSTALLER',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\markupsafe-3.0.3.dist-info\\INSTALLER',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\licenses\\numpy\\random\\src\\sfc64\\LICENSE.md',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\licenses\\numpy\\random\\src\\sfc64\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\licenses\\numpy\\random\\src\\distributions\\LICENSE.md',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\licenses\\numpy\\random\\src\\distributions\\LICENSE.md',
+   'DATA'),
+  ('pdfminer_six-20251230.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer_six-20251230.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\DELVEWHEEL',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\DELVEWHEEL',
+   'DATA'),
+  ('markupsafe-3.0.3.dist-info\\RECORD',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\markupsafe-3.0.3.dist-info\\RECORD',
+   'DATA'),
+  ('markupsafe-3.0.3.dist-info\\METADATA',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\markupsafe-3.0.3.dist-info\\METADATA',
+   'DATA'),
+  ('pdfminer_six-20251230.dist-info\\INSTALLER',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer_six-20251230.dist-info\\INSTALLER',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\licenses\\numpy\\_core\\src\\multiarray\\dragon4_LICENSE.txt',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\licenses\\numpy\\_core\\src\\multiarray\\dragon4_LICENSE.txt',
+   'DATA'),
+  ('pdfminer_six-20251230.dist-info\\top_level.txt',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer_six-20251230.dist-info\\top_level.txt',
+   'DATA'),
+  ('pdfminer_six-20251230.dist-info\\RECORD',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer_six-20251230.dist-info\\RECORD',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\licenses\\numpy\\random\\src\\pcg64\\LICENSE.md',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\licenses\\numpy\\random\\src\\pcg64\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\licenses\\numpy\\random\\src\\mt19937\\LICENSE.md',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\licenses\\numpy\\random\\src\\mt19937\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\licenses\\numpy\\_core\\src\\npysort\\x86-simd-sort\\LICENSE.md',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\licenses\\numpy\\_core\\src\\npysort\\x86-simd-sort\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\INSTALLER',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\licenses\\LICENSE.txt',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\licenses\\LICENSE.txt',
+   'DATA'),
+  ('markupsafe-3.0.3.dist-info\\top_level.txt',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\markupsafe-3.0.3.dist-info\\top_level.txt',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\licenses\\numpy\\_core\\src\\umath\\svml\\LICENSE',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\licenses\\numpy\\_core\\src\\umath\\svml\\LICENSE',
+   'DATA'),
+  ('markupsafe-3.0.3.dist-info\\WHEEL',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\markupsafe-3.0.3.dist-info\\WHEEL',
+   'DATA'),
+  ('pdfminer_six-20251230.dist-info\\METADATA',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\pdfminer_six-20251230.dist-info\\METADATA',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\licenses\\numpy\\random\\LICENSE.md',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\licenses\\numpy\\random\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\licenses\\numpy\\random\\src\\splitmix64\\LICENSE.md',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\licenses\\numpy\\random\\src\\splitmix64\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.1.dist-info\\licenses\\numpy\\_core\\src\\common\\pythoncapi-compat\\COPYING',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\venv\\Lib\\site-packages\\numpy-2.4.1.dist-info\\licenses\\numpy\\_core\\src\\common\\pythoncapi-compat\\COPYING',
+   'DATA'),
+  ('base_library.zip',
+   'C:\\Users\\renan.ramos\\Documents\\App '
+   'Multas\\build\\MultasAppQt\\base_library.zip',
+   'DATA')],
+ 'python314.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
